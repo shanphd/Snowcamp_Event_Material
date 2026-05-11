@@ -1,1 +1,1 @@
-### This Repo contain DTCC Snowcamp Traning Material ###
+### This Repo contain DTCC Snowcamp Training Material ###
